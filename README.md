@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Naphat Junmuang</h1>
 
-<p align="center"> Senior Computer Engineering student @ Prince of SongKla University </p>
-💻 Passionate about web & mobile app development  <br/>
-🌱 Currently learning **Flutter (Mobile App Development)**  <br/>
-📫 Reach me at: **naphatjm.work@gmail.com**<br/>
+<p align="center"> Senior Computer Engineering student @ Prince of SongKla University</p>
+💻 Passionate about web & mobile app development<br/>
+🌱 Currently learning: Mobile App Development<br/>
+📫 Reach me at: naphatjm.work@gmail.com<br/>
 
 
 ## 🔗 Connect with me
@@ -26,6 +26,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white&style=flat-square)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?logo=poetry&logoColor=white&style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
 
 
 <div align="center">
