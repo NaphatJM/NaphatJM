@@ -2,7 +2,7 @@
 
 <p align="center"> Senior Computer Engineering student @ Prince of SongKla University</p>
 💻 Passionate about web & mobile app development<br/>
-🌱 Currently learning: Mobile App Development<br/>
+🌱 Currently learning: DJango<br/>
 📫 Reach me at: naphatjm.work@gmail.com<br/>
 
 
